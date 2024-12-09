@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93a42873496502848969303684e0242c, type: 3}
+  m_Name: ASL-Test
+  m_EditorClassIdentifier: 
+  category: ASL
+  questions:
+  - questionText: What does this ASL sign say?
+    replies:
+    - here
+    - b
+    - c
+    - d
+    correctReplyIndex: 0
+    questionImage: {fileID: 0}
+    questionVideoClip: {fileID: 32900000, guid: f3b71a8bf53b90747927fc6d212b98b9, type: 3}
+  - questionText: What does this ASL sign say?
+    replies:
+    - 7
+    - here
+    - 5
+    - d
+    correctReplyIndex: 1
+    questionImage: {fileID: 5717109262552110730, guid: 8f33763855f73494b84ee6b19c946be7, type: 3}
+    questionVideoClip: {fileID: 0}
+  - questionText: What does this ASL sign say?
+    replies:
+    - here
+    - 4
+    - 5
+    - d
+    correctReplyIndex: 0
+    questionImage: {fileID: 5717109262552110730, guid: 8f33763855f73494b84ee6b19c946be7, type: 3}
+    questionVideoClip: {fileID: 0}

@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93a42873496502848969303684e0242c, type: 3}
+  m_Name: ASL-level1
+  m_EditorClassIdentifier: 
+  category: ASL
+  questions:
+  - questionText: What does this ASL sign say?
+    replies:
+    - b
+    - l
+    - 6
+    - d
+    correctReplyIndex: 3
+    questionImage: {fileID: 2957404852419100943, guid: 891268f8b00994ce088dd4206a7b9aa4, type: 3}
+    questionVideoClip: {fileID: 0}
+  - questionText: What does this ASL sign say?
+    replies:
+    - a
+    - b
+    - c
+    - d
+    correctReplyIndex: 0
+    questionImage: {fileID: -4910088520043721169, guid: 9fd4ed88e857a417397ccf82ad8ac201, type: 3}
+    questionVideoClip: {fileID: 0}
+  - questionText: What does this ASL sign say?
+    replies:
+    - n
+    - m
+    - e
+    - s
+    correctReplyIndex: 0
+    questionImage: {fileID: -8217714832183615459, guid: de295786e27c14811b27e28d8270ea6f, type: 3}
+    questionVideoClip: {fileID: 0}
+  - questionText: What does this ASL sign say?
+    replies:
+    - m
+    - e
+    - n
+    - o
+    correctReplyIndex: 1
+    questionImage: {fileID: 6626051464634953487, guid: 411f1d4653f034c6e9b12a60398e2880, type: 3}
+    questionVideoClip: {fileID: 0}
+  - questionText: What does this ASL sign say?
+    replies:
+    - o
+    - d
+    - ok
+    - f
+    correctReplyIndex: 3
+    questionImage: {fileID: 4051853549349518899, guid: d95f639af646a4c2fb45153d7c39f4af, type: 3}
+    questionVideoClip: {fileID: 0}
+  - questionText: What does this ASL sign say?
+    replies:
+    - t
+    - u
+    - 2
+    - v
+    correctReplyIndex: 3
+    questionImage: {fileID: -4534634967793127557, guid: a0210c90aa3274aacaab26e271e091c4, type: 3}
+    questionVideoClip: {fileID: 0}
+  - questionText: What does this ASL sign say?
+    replies:
+    - m
+    - s
+    - e
+    - n
+    correctReplyIndex: 1
+    questionImage: {fileID: 1532440346177022758, guid: 434119271aa034f3b90e20d6ab40f5ad, type: 3}
+    questionVideoClip: {fileID: 0}
+  - questionText: What does this ASL sign say?
+    replies:
+    - o
+    - c
+    - e
+    - u
+    correctReplyIndex: 1
+    questionImage: {fileID: 8579111415464493206, guid: 2f7258d0a4f794716bfcb53119c05dab, type: 3}
+    questionVideoClip: {fileID: 0}
+  - questionText: What does this ASL sign say?
+    replies:
+    - e
+    - 4
+    - b
+    - d
+    correctReplyIndex: 2
+    questionImage: {fileID: -4983721108374671077, guid: b51e9c7ac1bd14a4593317b50ce2b443, type: 3}
+    questionVideoClip: {fileID: 0}
+  - questionText: What does this ASL sign say?
+    replies:
+    - e
+    - m
+    - n
+    - s
+    correctReplyIndex: 1
+    questionImage: {fileID: -7590032424596528948, guid: 8b3849d2e865643c0b761f7b60aec956, type: 3}
+    questionVideoClip: {fileID: 0}
